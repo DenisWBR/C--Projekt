@@ -1,0 +1,81 @@
+@startuml ExcelKonvertierung
+class ExcelReader
+{   
+    ExcelReader(excelFilePath: string)
+    ReadCoursesRow(): int courseRow
+    ReadCourses(): List<Course> 
+    ReadSubjects(course:Course): List<Subject>
+    ReadTimes(): List<TimeSlot>
+}
+
+class Course
+{
+    CourseName: string
+    CourseRoom: object
+    courseColumnIndex: int
+}
+
+class Subject
+{
+    SubjectName: string
+    Location: object
+    subjectRowIndex: int
+    SubjectRowIndexStart: int
+    SubjectRowIndexEnd: int
+}
+
+class TimeSlot
+{
+    StartTime: DateTime
+    EndTime: DateTime
+    timeSlotRowIndex: int
+}
+
+class Appointment
+{
+    AppointmentName: string
+    Location: object
+    StartTime: DateTime
+    EndTime: DateTime    
+}
+
+class AppointmentSorter
+{
+    GroupSubjects(List<Subject>): List<Subjects>
+}
+
+class AppointmentTimeAssigner
+{
+    AssignAppointmentTimes(List<Subject>, List<TimeSlot>): List<Appointment> 
+}
+
+class ICalWriter
+{
+    ICalWriter(fileName: string)
+    Write(List<Appointment>)
+}
+
+class ExcelReaderException
+{
+    ExcelReaderException(excelFilePath: string, 
+    Exception innerexception)
+    GenerateErrorMessages(excelFilePath, innerException)
+}
+
+Course --* ExcelReader
+TimeSlot --* ExcelReader
+Subject --* ExcelReader
+
+ExcelReader -- AppointmentSorter
+
+Appointment --* AppointmentTimeAssigner
+
+AppointmentSorter --* AppointmentTimeAssigner
+
+AppointmentTimeAssigner -- ICalWriter
+
+
+
+
+
+@enduml                                                                                                            

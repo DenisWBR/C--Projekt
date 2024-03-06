@@ -1,0 +1,30 @@
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0-windows\C# Projekt.csproj.AssemblyReference.cache
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0-windows\C# Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0-windows\C# Projekt.AssemblyInfoInputs.cache
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0-windows\C# Projekt.AssemblyInfo.cs
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0-windows\C# Projekt.csproj.CoreCompileInputs.cache
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\C# Projekt.exe
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\C# Projekt.deps.json
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\C# Projekt.runtimeconfig.json
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\C# Projekt.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\C# Projekt.pdb
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0-windows\C# Projekt.csproj.CopyComplete
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0-windows\C# Projekt.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0-windows\refint\C# Projekt.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0-windows\C# Projekt.pdb
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0-windows\C# Projekt.genruntimeconfig.cache
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0-windows\ref\C# Projekt.dll

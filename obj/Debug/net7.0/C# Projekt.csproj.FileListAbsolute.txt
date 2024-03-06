@@ -1,0 +1,39 @@
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\C# Projekt.exe
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\C# Projekt.deps.json
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\C# Projekt.runtimeconfig.json
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\C# Projekt.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\C# Projekt.pdb
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0\C# Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0\C# Projekt.AssemblyInfoInputs.cache
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0\C# Projekt.AssemblyInfo.cs
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0\C# Projekt.csproj.CoreCompileInputs.cache
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0\C# Projekt.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0\refint\C# Projekt.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0\C# Projekt.pdb
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0\C# Projekt.genruntimeconfig.cache
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0\ref\C# Projekt.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0\C# Projekt.csproj.AssemblyReference.cache
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\EPPlus.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\OfficeOpenXml.Extension.AspNetCore.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\System.IO.Packaging.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\obj\Debug\net7.0\C# Projekt.csproj.CopyComplete
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\OfficeOpenXml.Extends.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\49176\Desktop\Dokumente_Studium\C#\C# Projekt\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
